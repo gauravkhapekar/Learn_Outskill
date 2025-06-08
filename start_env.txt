@@ -1,0 +1,16 @@
+# Go to your project folder
+cd /Users/gauravkhapekar/Outskill/Learn_Outskill
+
+# Activate your environment
+conda activate outskill_course
+
+# Now run your code
+python main.py
+# or
+jupyter notebook
+# or
+streamlit run app.py
+
+
+# Activate your environment
+conda deactivate
